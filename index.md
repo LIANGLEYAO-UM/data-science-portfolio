@@ -1,4 +1,4 @@
-# mc642881's Data Science Portfolio
+# My Data Science Portfolio
 
 ## About Me
 Hello! I am a student at the University of Macau studying Data Science. I am passionate about data visualization and finding insights through exploratory data analysis.
